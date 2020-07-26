@@ -1,0 +1,55 @@
+
+.imagecontainer{
+    background: url('backw.jpg');
+    height: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: solid;
+    position: relative;
+
+}
+    
+
+.heading{
+    font-size: 40px;
+    text-align: center;
+    color: antiquewhite;
+    margin-top: 27%
+    
+}
+
+.imagecontainer .btn{
+    position: absolute;
+    top: 85%;
+    left: 75%;
+    background-color: azure;
+    color: goldenrod;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center
+
+}
+
+
+
+.myhed{
+    color: red;
+    font-weight: 30px;
+    background-color: whitesmoke;
+    border-radius: 100%;
+    margin-left: 10%;
+}
+
+#altnav{
+    margin-right: 20px;
+}
+
+.h1{
+    
+    margin-top: 10%;
+    font-size: 40px;
+
+}
+
